@@ -1,4 +1,4 @@
-# ROB301_Modele_Generation_Automatique_Code_Logiciels_Embarques
+# ROB301 - Modèle et Génération Automatique de Code pour les Logiciels Embarqués
 
 Ensemble des projets du cours ROB301 - Modèle et génération automatique de code pour les logiciels embarqués de l'école ENSTA IP Paris.
 
